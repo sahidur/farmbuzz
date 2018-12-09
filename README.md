@@ -8,7 +8,8 @@
 
 ![](login.png)
 ![](dash.png)
-## Installation
+## DEMO
+http://farmbuzz.sahidur.me/
 
 
 ## Release History
