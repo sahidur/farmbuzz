@@ -8,8 +8,6 @@
 
 ![](login.png)
 ![](dash.png)
-## DEMO
-http://farmbuzz.sahidur.me/
 
 
 ## Release History
